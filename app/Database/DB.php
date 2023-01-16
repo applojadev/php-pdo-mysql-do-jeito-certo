@@ -31,7 +31,7 @@ class DB
 
         $host       = $config['host'];
         $port       = $config['port'];
-        $database    = $config['database'];
+        $database   = $config['database'];
         $user       = $config['user'];
         $password   = $config['password'];
         $options    = $config['options'];
